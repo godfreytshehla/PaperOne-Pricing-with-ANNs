@@ -5,25 +5,11 @@ This repository contains Python code for pricing capital-guaranteed structured p
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Neural Network Architecture](#neural-network-architecture)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
 Deep neural networks (FFNN) are powerful tools for approximating complex functions and can be applied to a wide range of financial problems, including the pricing of structured products. This repository focuses on using FFNN to price capital-guaranteed structured products, providing a flexible framework for model training and evaluation.
-
-## Features
-
-- Implementation of deep neural networks for pricing structured products.
-- Preprocessing of financial data for training neural networks.
-- Training and evaluation scripts for model performance assessment.
-- Example notebooks demonstrating usage and results.
-- Flexibility to extend and customize the neural network architecture.
 
 ## Installation
 
