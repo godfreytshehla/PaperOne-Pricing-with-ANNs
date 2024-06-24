@@ -1,6 +1,6 @@
-# Pricing Capital Guaranteed Structured Products with Feed-Forward Neural Networks
+# Pricing and Hedging Capital Guaranteed Structured Products with Deep Neural Networks
 
-This repository contains Python code for pricing capital guaranteed structured products using feed-forward neural networks. Capital guaranteed structured products are financial instruments that offer investors protection on their principal investment while providing exposure to the potential upside of an underlying asset. This project demonstrates how to leverage neural networks for accurate and efficient pricing of these products.
+This repository contains Python code for pricing capital-guaranteed structured products using deep neural networks. Capital-guaranteed structured products are financial instruments that offer investors protection on their principal investment while providing exposure to the potential upside of an underlying asset. 
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ This repository contains Python code for pricing capital guaranteed structured p
 
 ## Introduction
 
-Feed-forward neural networks (FFNN) are powerful tools for approximating complex functions and can be applied to a wide range of financial problems, including the pricing of structured products. This repository focuses on using FFNN to price capital guaranteed structured products, providing a flexible framework for model training and evaluation.
+Deep neural networks (FFNN) are powerful tools for approximating complex functions and can be applied to a wide range of financial problems, including the pricing of structured products. This repository focuses on using FFNN to price capital-guaranteed structured products, providing a flexible framework for model training and evaluation.
 
 ## Features
 
-- Implementation of feed-forward neural networks for pricing structured products.
+- Implementation of deep neural networks for pricing structured products.
 - Preprocessing of financial data for training neural networks.
 - Training and evaluation scripts for model performance assessment.
 - Example notebooks demonstrating usage and results.
